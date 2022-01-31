@@ -1,0 +1,17 @@
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.ViewModels\bin\Debug\netstandard2.1\PetSpa.Web.ViewModels.deps.json
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.ViewModels\bin\Debug\netstandard2.1\PetSpa.Web.ViewModels.dll
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.ViewModels\bin\Debug\netstandard2.1\PetSpa.Web.ViewModels.pdb
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.ViewModels\bin\Debug\netstandard2.1\PetSpa.Data.Common.dll
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.ViewModels\bin\Debug\netstandard2.1\PetSpa.Data.Models.dll
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.ViewModels\bin\Debug\netstandard2.1\PetSpa.Services.Mapping.dll
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.ViewModels\bin\Debug\netstandard2.1\PetSpa.Data.Models.pdb
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.ViewModels\bin\Debug\netstandard2.1\PetSpa.Services.Mapping.pdb
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.ViewModels\bin\Debug\netstandard2.1\PetSpa.Data.Common.pdb
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.ViewModels\obj\Debug\netstandard2.1\PetSpa.Web.ViewModels.csproj.AssemblyReference.cache
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.ViewModels\obj\Debug\netstandard2.1\PetSpa.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.ViewModels\obj\Debug\netstandard2.1\PetSpa.Web.ViewModels.AssemblyInfoInputs.cache
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.ViewModels\obj\Debug\netstandard2.1\PetSpa.Web.ViewModels.AssemblyInfo.cs
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.ViewModels\obj\Debug\netstandard2.1\PetSpa.Web.ViewModels.csproj.CoreCompileInputs.cache
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.ViewModels\obj\Debug\netstandard2.1\PetSpa.Web.ViewModels.csproj.CopyComplete
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.ViewModels\obj\Debug\netstandard2.1\PetSpa.Web.ViewModels.dll
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.ViewModels\obj\Debug\netstandard2.1\PetSpa.Web.ViewModels.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hDtrFh97MlkkKhPA57k/iyQe0FrKohwGE91pNQGa8CiwAcFgZsF3Tb1t3SlbNz8N6BhrVr3e8NpA53gUOMh0pA==",
+  "success": true,
+  "projectFilePath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mimi\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\Mimi\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512",
+    "C:\\Users\\Mimi\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

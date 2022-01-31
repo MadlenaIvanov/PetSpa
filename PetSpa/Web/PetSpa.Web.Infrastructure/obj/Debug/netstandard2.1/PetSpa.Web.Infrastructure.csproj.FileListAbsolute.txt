@@ -1,0 +1,10 @@
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.Infrastructure\bin\Debug\netstandard2.1\PetSpa.Web.Infrastructure.deps.json
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.Infrastructure\bin\Debug\netstandard2.1\PetSpa.Web.Infrastructure.dll
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.Infrastructure\bin\Debug\netstandard2.1\PetSpa.Web.Infrastructure.pdb
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.Infrastructure\obj\Debug\netstandard2.1\PetSpa.Web.Infrastructure.csproj.AssemblyReference.cache
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.Infrastructure\obj\Debug\netstandard2.1\PetSpa.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.Infrastructure\obj\Debug\netstandard2.1\PetSpa.Web.Infrastructure.AssemblyInfoInputs.cache
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.Infrastructure\obj\Debug\netstandard2.1\PetSpa.Web.Infrastructure.AssemblyInfo.cs
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.Infrastructure\obj\Debug\netstandard2.1\PetSpa.Web.Infrastructure.csproj.CoreCompileInputs.cache
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.Infrastructure\obj\Debug\netstandard2.1\PetSpa.Web.Infrastructure.dll
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.Infrastructure\obj\Debug\netstandard2.1\PetSpa.Web.Infrastructure.pdb

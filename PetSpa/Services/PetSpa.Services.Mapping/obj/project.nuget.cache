@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kfa7pSV6ge/n6ozKk0BH6Qau9Di/g91OuBEXIV9UPd4pawMwYr5phJVIqjuI/KLTM+X2XtlW+uhq1ukn/nKcEA==",
+  "success": true,
+  "projectFilePath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Mapping\\PetSpa.Services.Mapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mimi\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Mimi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mimi\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\Mimi\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512",
+    "C:\\Users\\Mimi\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

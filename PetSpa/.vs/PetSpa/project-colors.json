@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b90d1067-fe4c-400e-ba78-5413e30ab9ed": {
+      "ProjectGuid": "b90d1067-fe4c-400e-ba78-5413e30ab9ed",
+      "DisplayName": "PetSpa.Web",
+      "ColorIndex": 0
+    },
+    "13b7aacb-9c85-4409-8d4b-95a67d0dfff7": {
+      "ProjectGuid": "13b7aacb-9c85-4409-8d4b-95a67d0dfff7",
+      "DisplayName": "PetSpa.Web.ViewModels",
+      "ColorIndex": 1
+    },
+    "a2288c46-0fbf-43b6-80b6-3072fd65bc32": {
+      "ProjectGuid": "a2288c46-0fbf-43b6-80b6-3072fd65bc32",
+      "DisplayName": "PetSpa.Common",
+      "ColorIndex": 2
+    },
+    "4b844ecb-e845-49a6-8b31-85e577933598": {
+      "ProjectGuid": "4b844ecb-e845-49a6-8b31-85e577933598",
+      "DisplayName": "PetSpa.Data",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

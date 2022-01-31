@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "coX3SXNyEpy5KEAGEhrOciQHWm0YWj2PjI3fNc1ZUkuzbQleAIyoPc0QH0UFwx5y3nR64JKvTaHfQYNi3DO8qg==",
+  "success": true,
+  "projectFilePath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\PetSpa.Common\\PetSpa.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mimi\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\Mimi\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}

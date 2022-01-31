@@ -1,0 +1,17 @@
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Data\bin\Debug\netstandard2.1\PetSpa.Services.Data.deps.json
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Data\bin\Debug\netstandard2.1\PetSpa.Services.Data.dll
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Data\bin\Debug\netstandard2.1\PetSpa.Services.Data.pdb
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Data\bin\Debug\netstandard2.1\PetSpa.Data.Common.dll
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Data\bin\Debug\netstandard2.1\PetSpa.Data.Models.dll
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Data\bin\Debug\netstandard2.1\PetSpa.Services.Mapping.dll
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Data\bin\Debug\netstandard2.1\PetSpa.Data.Common.pdb
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Data\bin\Debug\netstandard2.1\PetSpa.Data.Models.pdb
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Data\bin\Debug\netstandard2.1\PetSpa.Services.Mapping.pdb
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Data\obj\Debug\netstandard2.1\PetSpa.Services.Data.csproj.AssemblyReference.cache
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Data\obj\Debug\netstandard2.1\PetSpa.Services.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Data\obj\Debug\netstandard2.1\PetSpa.Services.Data.AssemblyInfoInputs.cache
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Data\obj\Debug\netstandard2.1\PetSpa.Services.Data.AssemblyInfo.cs
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Data\obj\Debug\netstandard2.1\PetSpa.Services.Data.csproj.CoreCompileInputs.cache
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Data\obj\Debug\netstandard2.1\PetSpa.Services.Data.csproj.CopyComplete
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Data\obj\Debug\netstandard2.1\PetSpa.Services.Data.dll
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Data\obj\Debug\netstandard2.1\PetSpa.Services.Data.pdb

@@ -1,0 +1,9 @@
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Mapping\bin\Debug\netstandard2.1\PetSpa.Services.Mapping.deps.json
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Mapping\bin\Debug\netstandard2.1\PetSpa.Services.Mapping.dll
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Mapping\bin\Debug\netstandard2.1\PetSpa.Services.Mapping.pdb
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Mapping\obj\Debug\netstandard2.1\PetSpa.Services.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Mapping\obj\Debug\netstandard2.1\PetSpa.Services.Mapping.AssemblyInfoInputs.cache
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Mapping\obj\Debug\netstandard2.1\PetSpa.Services.Mapping.AssemblyInfo.cs
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Mapping\obj\Debug\netstandard2.1\PetSpa.Services.Mapping.csproj.CoreCompileInputs.cache
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Mapping\obj\Debug\netstandard2.1\PetSpa.Services.Mapping.dll
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Mapping\obj\Debug\netstandard2.1\PetSpa.Services.Mapping.pdb

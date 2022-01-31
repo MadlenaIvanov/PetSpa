@@ -1,0 +1,10 @@
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Messaging\bin\Debug\netstandard2.1\PetSpa.Services.Messaging.deps.json
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Messaging\bin\Debug\netstandard2.1\PetSpa.Services.Messaging.dll
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Messaging\bin\Debug\netstandard2.1\PetSpa.Services.Messaging.pdb
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Messaging\obj\Debug\netstandard2.1\PetSpa.Services.Messaging.csproj.AssemblyReference.cache
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Messaging\obj\Debug\netstandard2.1\PetSpa.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Messaging\obj\Debug\netstandard2.1\PetSpa.Services.Messaging.AssemblyInfoInputs.cache
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Messaging\obj\Debug\netstandard2.1\PetSpa.Services.Messaging.AssemblyInfo.cs
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Messaging\obj\Debug\netstandard2.1\PetSpa.Services.Messaging.csproj.CoreCompileInputs.cache
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Messaging\obj\Debug\netstandard2.1\PetSpa.Services.Messaging.dll
+D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Messaging\obj\Debug\netstandard2.1\PetSpa.Services.Messaging.pdb
