@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4M4ThZWFKPIrF/tvU4HMFQxfR+x7rZglJR9GI9XvoX2/tonLhpK58rs6r4IZ94Nf8z9bR0v7M6u/f5afHqB76A==",
+  "dgSpecHash": "M5NsVmgTUG7b1qxesTVmbhHIhkQC4fBHjdOH2FRZ+4Ibo9fHmb5ZE085wbT5LktXmm8//4m//LXVd+inEEa+Kw==",
   "success": true,
-  "projectFilePath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Messaging\\PetSpa.Services.Messaging.csproj",
+  "projectFilePath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Messaging\\PetSpa.Services.Messaging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mimi\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Mimi\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",

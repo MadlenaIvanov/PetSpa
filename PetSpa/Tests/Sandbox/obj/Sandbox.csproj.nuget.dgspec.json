@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Tests\\Sandbox\\Sandbox.csproj": {}
+    "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Tests\\Sandbox\\Sandbox.csproj": {}
   },
   "projects": {
-    "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj": {
+    "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj",
         "projectName": "PetSpa.Data.Common",
-        "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj",
+        "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj",
         "packagesPath": "C:\\Users\\Mimi\\.nuget\\packages\\",
-        "outputPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Common\\obj\\",
+        "outputPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -74,14 +74,14 @@
         }
       }
     },
-    "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Models\\PetSpa.Data.Models.csproj": {
+    "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Models\\PetSpa.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Models\\PetSpa.Data.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Models\\PetSpa.Data.Models.csproj",
         "projectName": "PetSpa.Data.Models",
-        "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Models\\PetSpa.Data.Models.csproj",
+        "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Models\\PetSpa.Data.Models.csproj",
         "packagesPath": "C:\\Users\\Mimi\\.nuget\\packages\\",
-        "outputPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Models\\obj\\",
+        "outputPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -102,8 +102,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj": {
-                "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj"
+              "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data\\PetSpa.Data.csproj": {
+    "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data\\PetSpa.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data\\PetSpa.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data\\PetSpa.Data.csproj",
         "projectName": "PetSpa.Data",
-        "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data\\PetSpa.Data.csproj",
+        "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data\\PetSpa.Data.csproj",
         "packagesPath": "C:\\Users\\Mimi\\.nuget\\packages\\",
-        "outputPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data\\obj\\",
+        "outputPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -176,14 +176,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj": {
-                "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj"
+              "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj"
               },
-              "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Models\\PetSpa.Data.Models.csproj": {
-                "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Models\\PetSpa.Data.Models.csproj"
+              "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Models\\PetSpa.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Models\\PetSpa.Data.Models.csproj"
               },
-              "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\PetSpa.Common\\PetSpa.Common.csproj": {
-                "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\PetSpa.Common\\PetSpa.Common.csproj"
+              "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\PetSpa.Common\\PetSpa.Common.csproj": {
+                "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\PetSpa.Common\\PetSpa.Common.csproj"
               }
             }
           }
@@ -248,14 +248,14 @@
         }
       }
     },
-    "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\PetSpa.Common\\PetSpa.Common.csproj": {
+    "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\PetSpa.Common\\PetSpa.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\PetSpa.Common\\PetSpa.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\PetSpa.Common\\PetSpa.Common.csproj",
         "projectName": "PetSpa.Common",
-        "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\PetSpa.Common\\PetSpa.Common.csproj",
+        "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\PetSpa.Common\\PetSpa.Common.csproj",
         "packagesPath": "C:\\Users\\Mimi\\.nuget\\packages\\",
-        "outputPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\PetSpa.Common\\obj\\",
+        "outputPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\PetSpa.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -314,14 +314,14 @@
         }
       }
     },
-    "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Data\\PetSpa.Services.Data.csproj": {
+    "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Data\\PetSpa.Services.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Data\\PetSpa.Services.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Data\\PetSpa.Services.Data.csproj",
         "projectName": "PetSpa.Services.Data",
-        "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Data\\PetSpa.Services.Data.csproj",
+        "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Data\\PetSpa.Services.Data.csproj",
         "packagesPath": "C:\\Users\\Mimi\\.nuget\\packages\\",
-        "outputPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Data\\obj\\",
+        "outputPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -342,14 +342,14 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj": {
-                "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj"
+              "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj"
               },
-              "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Models\\PetSpa.Data.Models.csproj": {
-                "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Models\\PetSpa.Data.Models.csproj"
+              "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Models\\PetSpa.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Models\\PetSpa.Data.Models.csproj"
               },
-              "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Mapping\\PetSpa.Services.Mapping.csproj": {
-                "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Mapping\\PetSpa.Services.Mapping.csproj"
+              "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Mapping\\PetSpa.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Mapping\\PetSpa.Services.Mapping.csproj"
               }
             }
           }
@@ -390,14 +390,14 @@
         }
       }
     },
-    "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Mapping\\PetSpa.Services.Mapping.csproj": {
+    "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Mapping\\PetSpa.Services.Mapping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Mapping\\PetSpa.Services.Mapping.csproj",
+        "projectUniqueName": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Mapping\\PetSpa.Services.Mapping.csproj",
         "projectName": "PetSpa.Services.Mapping",
-        "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Mapping\\PetSpa.Services.Mapping.csproj",
+        "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Mapping\\PetSpa.Services.Mapping.csproj",
         "packagesPath": "C:\\Users\\Mimi\\.nuget\\packages\\",
-        "outputPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Mapping\\obj\\",
+        "outputPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Mapping\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -460,14 +460,14 @@
         }
       }
     },
-    "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Messaging\\PetSpa.Services.Messaging.csproj": {
+    "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Messaging\\PetSpa.Services.Messaging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Messaging\\PetSpa.Services.Messaging.csproj",
+        "projectUniqueName": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Messaging\\PetSpa.Services.Messaging.csproj",
         "projectName": "PetSpa.Services.Messaging",
-        "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Messaging\\PetSpa.Services.Messaging.csproj",
+        "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Messaging\\PetSpa.Services.Messaging.csproj",
         "packagesPath": "C:\\Users\\Mimi\\.nuget\\packages\\",
-        "outputPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Messaging\\obj\\",
+        "outputPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Messaging\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -530,14 +530,14 @@
         }
       }
     },
-    "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services\\PetSpa.Services.csproj": {
+    "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services\\PetSpa.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services\\PetSpa.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services\\PetSpa.Services.csproj",
         "projectName": "PetSpa.Services",
-        "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services\\PetSpa.Services.csproj",
+        "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services\\PetSpa.Services.csproj",
         "packagesPath": "C:\\Users\\Mimi\\.nuget\\packages\\",
-        "outputPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services\\obj\\",
+        "outputPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -596,14 +596,14 @@
         }
       }
     },
-    "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Tests\\Sandbox\\Sandbox.csproj": {
+    "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Tests\\Sandbox\\Sandbox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Tests\\Sandbox\\Sandbox.csproj",
+        "projectUniqueName": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Tests\\Sandbox\\Sandbox.csproj",
         "projectName": "Sandbox",
-        "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Tests\\Sandbox\\Sandbox.csproj",
+        "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Tests\\Sandbox\\Sandbox.csproj",
         "packagesPath": "C:\\Users\\Mimi\\.nuget\\packages\\",
-        "outputPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Tests\\Sandbox\\obj\\",
+        "outputPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Tests\\Sandbox\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -624,29 +624,29 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj": {
-                "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj"
+              "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Common\\PetSpa.Data.Common.csproj"
               },
-              "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Models\\PetSpa.Data.Models.csproj": {
-                "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data.Models\\PetSpa.Data.Models.csproj"
+              "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Models\\PetSpa.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data.Models\\PetSpa.Data.Models.csproj"
               },
-              "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data\\PetSpa.Data.csproj": {
-                "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data\\PetSpa.Data.csproj"
+              "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data\\PetSpa.Data.csproj": {
+                "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data\\PetSpa.Data.csproj"
               },
-              "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\PetSpa.Common\\PetSpa.Common.csproj": {
-                "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\PetSpa.Common\\PetSpa.Common.csproj"
+              "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\PetSpa.Common\\PetSpa.Common.csproj": {
+                "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\PetSpa.Common\\PetSpa.Common.csproj"
               },
-              "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Data\\PetSpa.Services.Data.csproj": {
-                "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Data\\PetSpa.Services.Data.csproj"
+              "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Data\\PetSpa.Services.Data.csproj": {
+                "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Data\\PetSpa.Services.Data.csproj"
               },
-              "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Mapping\\PetSpa.Services.Mapping.csproj": {
-                "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Mapping\\PetSpa.Services.Mapping.csproj"
+              "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Mapping\\PetSpa.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Mapping\\PetSpa.Services.Mapping.csproj"
               },
-              "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Messaging\\PetSpa.Services.Messaging.csproj": {
-                "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Messaging\\PetSpa.Services.Messaging.csproj"
+              "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Messaging\\PetSpa.Services.Messaging.csproj": {
+                "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Messaging\\PetSpa.Services.Messaging.csproj"
               },
-              "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services\\PetSpa.Services.csproj": {
-                "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services\\PetSpa.Services.csproj"
+              "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services\\PetSpa.Services.csproj": {
+                "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services\\PetSpa.Services.csproj"
               }
             }
           }

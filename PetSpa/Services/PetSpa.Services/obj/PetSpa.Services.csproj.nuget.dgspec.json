@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services\\PetSpa.Services.csproj": {}
+    "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services\\PetSpa.Services.csproj": {}
   },
   "projects": {
-    "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services\\PetSpa.Services.csproj": {
+    "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services\\PetSpa.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services\\PetSpa.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services\\PetSpa.Services.csproj",
         "projectName": "PetSpa.Services",
-        "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services\\PetSpa.Services.csproj",
+        "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services\\PetSpa.Services.csproj",
         "packagesPath": "C:\\Users\\Mimi\\.nuget\\packages\\",
-        "outputPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services\\obj\\",
+        "outputPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

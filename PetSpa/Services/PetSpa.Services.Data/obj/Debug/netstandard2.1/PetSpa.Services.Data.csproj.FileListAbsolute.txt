@@ -15,3 +15,20 @@ D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Se
 D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Data\obj\Debug\netstandard2.1\PetSpa.Services.Data.csproj.CopyComplete
 D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Data\obj\Debug\netstandard2.1\PetSpa.Services.Data.dll
 D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Services\PetSpa.Services.Data\obj\Debug\netstandard2.1\PetSpa.Services.Data.pdb
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Services\PetSpa.Services.Data\bin\Debug\netstandard2.1\PetSpa.Services.Data.deps.json
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Services\PetSpa.Services.Data\bin\Debug\netstandard2.1\PetSpa.Services.Data.dll
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Services\PetSpa.Services.Data\bin\Debug\netstandard2.1\PetSpa.Services.Data.pdb
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Services\PetSpa.Services.Data\bin\Debug\netstandard2.1\PetSpa.Data.Common.dll
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Services\PetSpa.Services.Data\bin\Debug\netstandard2.1\PetSpa.Data.Models.dll
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Services\PetSpa.Services.Data\bin\Debug\netstandard2.1\PetSpa.Services.Mapping.dll
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Services\PetSpa.Services.Data\bin\Debug\netstandard2.1\PetSpa.Data.Common.pdb
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Services\PetSpa.Services.Data\bin\Debug\netstandard2.1\PetSpa.Data.Models.pdb
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Services\PetSpa.Services.Data\bin\Debug\netstandard2.1\PetSpa.Services.Mapping.pdb
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Services\PetSpa.Services.Data\obj\Debug\netstandard2.1\PetSpa.Services.Data.csproj.AssemblyReference.cache
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Services\PetSpa.Services.Data\obj\Debug\netstandard2.1\PetSpa.Services.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Services\PetSpa.Services.Data\obj\Debug\netstandard2.1\PetSpa.Services.Data.AssemblyInfoInputs.cache
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Services\PetSpa.Services.Data\obj\Debug\netstandard2.1\PetSpa.Services.Data.AssemblyInfo.cs
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Services\PetSpa.Services.Data\obj\Debug\netstandard2.1\PetSpa.Services.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Services\PetSpa.Services.Data\obj\Debug\netstandard2.1\PetSpa.Services.Data.csproj.CopyComplete
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Services\PetSpa.Services.Data\obj\Debug\netstandard2.1\PetSpa.Services.Data.dll
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Services\PetSpa.Services.Data\obj\Debug\netstandard2.1\PetSpa.Services.Data.pdb

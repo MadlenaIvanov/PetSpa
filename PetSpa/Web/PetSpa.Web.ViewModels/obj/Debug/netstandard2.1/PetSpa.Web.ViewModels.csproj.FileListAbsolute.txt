@@ -15,3 +15,20 @@ D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.Vie
 D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.ViewModels\obj\Debug\netstandard2.1\PetSpa.Web.ViewModels.csproj.CopyComplete
 D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.ViewModels\obj\Debug\netstandard2.1\PetSpa.Web.ViewModels.dll
 D:\_000\06 C# Web\01 C# WEB BASICS\09 CONSULTATION DAY\PetSpa\Web\PetSpa.Web.ViewModels\obj\Debug\netstandard2.1\PetSpa.Web.ViewModels.pdb
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Web\PetSpa.Web.ViewModels\bin\Debug\netstandard2.1\PetSpa.Web.ViewModels.deps.json
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Web\PetSpa.Web.ViewModels\bin\Debug\netstandard2.1\PetSpa.Web.ViewModels.dll
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Web\PetSpa.Web.ViewModels\bin\Debug\netstandard2.1\PetSpa.Web.ViewModels.pdb
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Web\PetSpa.Web.ViewModels\bin\Debug\netstandard2.1\PetSpa.Data.Common.dll
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Web\PetSpa.Web.ViewModels\bin\Debug\netstandard2.1\PetSpa.Data.Models.dll
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Web\PetSpa.Web.ViewModels\bin\Debug\netstandard2.1\PetSpa.Services.Mapping.dll
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Web\PetSpa.Web.ViewModels\bin\Debug\netstandard2.1\PetSpa.Data.Models.pdb
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Web\PetSpa.Web.ViewModels\bin\Debug\netstandard2.1\PetSpa.Services.Mapping.pdb
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Web\PetSpa.Web.ViewModels\bin\Debug\netstandard2.1\PetSpa.Data.Common.pdb
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Web\PetSpa.Web.ViewModels\obj\Debug\netstandard2.1\PetSpa.Web.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Web\PetSpa.Web.ViewModels\obj\Debug\netstandard2.1\PetSpa.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Web\PetSpa.Web.ViewModels\obj\Debug\netstandard2.1\PetSpa.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Web\PetSpa.Web.ViewModels\obj\Debug\netstandard2.1\PetSpa.Web.ViewModels.AssemblyInfo.cs
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Web\PetSpa.Web.ViewModels\obj\Debug\netstandard2.1\PetSpa.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Web\PetSpa.Web.ViewModels\obj\Debug\netstandard2.1\PetSpa.Web.ViewModels.csproj.CopyComplete
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Web\PetSpa.Web.ViewModels\obj\Debug\netstandard2.1\PetSpa.Web.ViewModels.dll
+C:\Users\Mimi\Documents\GitHub\PetSpa\PetSpa\Web\PetSpa.Web.ViewModels\obj\Debug\netstandard2.1\PetSpa.Web.ViewModels.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GBT7gcMIITFDXbBPVcC1hufl4zRnd6OTW4c2yEADpxjJ7wRzE4VRZmC9O0t0tZA1PsqIZrb7UVcIbqCgZuRXIg==",
+  "dgSpecHash": "J4EzPfETXAi8ZvfZr+LwUPIKdAy6zCifQleoqcQzb/xLQy9lbCH6CH03JTsJ6X7hyQyE6Ld+fXdLk4gGRgXjUQ==",
   "success": true,
-  "projectFilePath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Web\\PetSpa.Web\\PetSpa.Web.csproj",
+  "projectFilePath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Web\\PetSpa.Web\\PetSpa.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mimi\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Mimi\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512",

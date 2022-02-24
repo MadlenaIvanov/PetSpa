@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qy1Fn/AJgHeZ6urURpTNNvCiEa26+4QyGgKRXkY5+6fbe1paxDpdFHxuLHPTSnd3eAZJ97f/EYn9Wl0Hy+ymzA==",
+  "dgSpecHash": "95ST4hUpEzFZJMvdkbEnocU9N+3oIjNPJKQexR/9u+ZNx62ihJC3SO03ReE5/DMiUrA1R72N8gbKAob9xqjc3g==",
   "success": true,
-  "projectFilePath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Services\\PetSpa.Services.Data\\PetSpa.Services.Data.csproj",
+  "projectFilePath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Services\\PetSpa.Services.Data\\PetSpa.Services.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mimi\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Mimi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.6\\microsoft.aspnetcore.cryptography.internal.5.0.6.nupkg.sha512",

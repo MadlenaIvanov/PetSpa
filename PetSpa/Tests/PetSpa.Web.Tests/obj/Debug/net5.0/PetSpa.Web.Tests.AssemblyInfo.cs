@@ -12,8 +12,8 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("PetSpa.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Data\\PetSpa.Data", "PetSpa.Data.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("PetSpa.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Web\\PetSpa.Web", "PetSpa.Web.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("PetSpa.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Data\\PetSpa.Data", "PetSpa.Data.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("PetSpa.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Web\\PetSpa.Web", "PetSpa.Web.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("PetSpa.Web.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

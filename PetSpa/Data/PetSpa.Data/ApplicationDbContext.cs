@@ -25,6 +25,11 @@
         }
 
         public DbSet<Setting> Settings { get; set; }
+        public DbSet<Appointment> Appointments { get; set; }
+        public DbSet<Pet> Pets { get; set; }
+        public DbSet<Review> Reviews { get; set; }
+        public DbSet<Salon> Salons { get; set; }
+        public DbSet<Service> Services { get; set; }
 
         public override int SaveChanges() => this.SaveChanges(true);
 

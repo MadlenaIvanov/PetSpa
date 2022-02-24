@@ -11487,11 +11487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Tests\\PetSpa.Web.Tests\\PetSpa.Web.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Tests\\PetSpa.Web.Tests\\PetSpa.Web.Tests.csproj",
       "projectName": "PetSpa.Web.Tests",
-      "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Tests\\PetSpa.Web.Tests\\PetSpa.Web.Tests.csproj",
+      "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Tests\\PetSpa.Web.Tests\\PetSpa.Web.Tests.csproj",
       "packagesPath": "C:\\Users\\Mimi\\.nuget\\packages\\",
-      "outputPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Tests\\PetSpa.Web.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Tests\\PetSpa.Web.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -11512,8 +11512,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Web\\PetSpa.Web\\PetSpa.Web.csproj": {
-              "projectPath": "D:\\_000\\06 C# Web\\01 C# WEB BASICS\\09 CONSULTATION DAY\\PetSpa\\Web\\PetSpa.Web\\PetSpa.Web.csproj"
+            "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Web\\PetSpa.Web\\PetSpa.Web.csproj": {
+              "projectPath": "C:\\Users\\Mimi\\Documents\\GitHub\\PetSpa\\PetSpa\\Web\\PetSpa.Web\\PetSpa.Web.csproj"
             }
           }
         }
